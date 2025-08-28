@@ -1,4 +1,4 @@
-# UPI-Transactions
+# E-Commerce UPI-Transactions
 Interactive Power BI dashboard analyzing UPI transactions with slicers, multi-currency insights, conditional formatting, and bookmarks.
 
 # 📊 UPI Transactions Power BI Dashboard
