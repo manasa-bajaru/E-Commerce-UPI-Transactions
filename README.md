@@ -28,8 +28,7 @@ Bookmarks to toggle between Line & Column charts for better comparison
 
 # 📂 Power BI Project File
 
-👉 UPI Transactions Dashboard.pbix
- (upload your PBIX file here)
+👉 ![UPI Transactions Dashboard.pbix](https://github.com/manasa-bajaru/E-Commerce-UPI-Transactions/blob/main/Project%20File.pbix)
 
 # 📑 Dataset Used
 
