@@ -9,7 +9,7 @@ This repository contains a fully interactive Power BI dashboard that provides in
 
 A Power BI dashboard project analyzing UPI transaction data — includes insights on monthly transaction trends, balances across multiple currencies, city-wise distribution, payment methods, and user demographics.
 
-
+![Dashboard View](https://github.com/manasa-bajaru/E-Commerce-UPI-Transactions/blob/main/Dashboard%20%20Screenshot.png)
 
 
 # 📊 Dashboard Highlights
